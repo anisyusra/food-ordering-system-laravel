@@ -76,3 +76,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## UI/UX
+
+![Screenshot (161)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/fee9a1d2-74ca-4c1d-bee2-528af70ed676)
+![Screenshot (160)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/e3ca9286-ba36-4be7-a6a3-fb362847e524)
+![Screenshot (158)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/1389ac5d-4553-47ac-9ffd-6cc460069713)
+![Screenshot (157)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/a2334047-36f6-4c8d-8df1-0ea025064551)
+![Screenshot (151)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/530cc8a7-c028-4039-859d-7f6249f982ae)
+![Screenshot (150)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/492800ea-36ed-40cc-b37c-0a398892206e)
+![Screenshot (149)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/38ed3d67-cf2e-419f-9a23-457aae5f6eef)
+![Screenshot (146)](https://github.com/anisyusra/food-ordering-system-laravel/assets/139026902/bdda7ddc-fee8-457c-9a11-2ebaec794f12)
+![Uploading Screenshot (145).png…]()
+
+
+
+
+
+
